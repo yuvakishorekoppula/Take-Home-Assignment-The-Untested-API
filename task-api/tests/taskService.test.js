@@ -1,0 +1,10 @@
+getAll
+findById
+getByStatus
+getPaginated
+getStats
+create
+update
+remove
+completeTask
+_reset
